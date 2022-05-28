@@ -1,6 +1,6 @@
 You can run this exe from Command Windows by:
 
-Going where the CoinListener.exe is being stored, for example; "cd C:\Users\YOURUSERNAME\CoinListener"
+Going where the CoinListener.exe is being stored, for example; "cd C:\Users\YOURUSERNAME\CoinListenerFile"
 
 After going to where the exe is being stored, once again you can run CoinListener.exe by using a command like "CoinListener.exe BTCUSDT 10000 30000 50" and start listening to BTCUSDT price. 
 
